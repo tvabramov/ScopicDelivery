@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>scopicdelivery.qml</file>
+        <file>map/MapComponent.qml</file>
+        <file>map/MapSliders.qml</file>
+        <file>map/Marker.qml</file>
+        <file>forms/Message.qml</file>
+        <file>forms/MessageForm.ui.qml</file>
+        <file>forms/Locale.qml</file>
+        <file>forms/LocaleForm.ui.qml</file>
+        <file>forms/RouteList.qml</file>
+        <file>forms/RouteListDelegate.qml</file>
+        <file>forms/RouteListHeader.qml</file>
+        <file>menus/MainMenu.qml</file>
+        <file>menus/MapPopupMenu.qml</file>
+        <file>helper.js</file>
+        <file>resources/scale_end.png</file>
+        <file>resources/scale.png</file>
+        <file>resources/marker.png</file>
+        <file>resources/icon.png</file>
+    </qresource>
+</RCC>
